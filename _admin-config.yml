@@ -1,0 +1,8 @@
+options:
+  spellcheck: true
+  lineNumbers: true
+  imagePath: css/images
+editor:
+  inputStyle: contenteditable
+  spellcheck: true
+  lineNumbers: true
